@@ -18,8 +18,12 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+* shows the branches visualized to detect unreachable commits 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
