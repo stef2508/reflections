@@ -21,3 +21,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 - we are working with dropbox. we always have to remember to update the work. there is no clean structure.
 - easiest way is still github. we will start using after this course
 - hard is the situation when more peoples are working at the same time and finish the work and want to pull it together 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- testing new features or other languages is good way to create new branch
+- to much brands will be complicate the overview
+- working in seperate branches is safer and organized
