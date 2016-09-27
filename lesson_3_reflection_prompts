@@ -15,3 +15,9 @@ Why might you want to always pull changes manually rather than having Git automa
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 - it offers me an opportunity to merge the repos with the local repo. also easy way to access the remote without having a connection
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- we are working with dropbox. we always have to remember to update the work. there is no clean structure.
+- easiest way is still github. we will start using after this course
+- hard is the situation when more peoples are working at the same time and finish the work and want to pull it together 
