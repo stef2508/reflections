@@ -11,3 +11,7 @@ Why might you want to always pull changes manually rather than having Git automa
 - forks: creates a existing repo hosted on github to my accoutn to edit or modify
 - clone: downloads a existing repo to my local machine also to edit or modify
 - branche: creates a new "label" or version to work with without destroying the original repo
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- it offers me an opportunity to merge the repos with the local repo. also easy way to access the remote without having a connection
